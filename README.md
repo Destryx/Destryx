@@ -16,7 +16,7 @@
 
 ### Environnements & outils
 
-[![Linux](https://skillicons.dev/icons?i=ubuntu,windows,bash,nodejs,qt,github,gitlab)](https://skillicons.dev) &nbsp;
+[![Linux](https://skillicons.dev/icons?i=ubuntu,windows,bash,powershell,nodejs,qt,github,gitlab)](https://skillicons.dev) &nbsp;
 
 ---
 
