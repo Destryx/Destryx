@@ -4,16 +4,15 @@
 
 ### Langages de programmation
 
-[![LUA](https://skillicons.dev/icons?i=lua,c,cpp,js,php,html,css)](https://skillicons.dev) &nbsp;
+[![LANGAGE](https://skillicons.dev/icons?i=lua,c,cpp,js,php,html,css)](https://skillicons.dev) &nbsp;
 
 ### Frameworks & plateformes
 
-[![CSS](https://skillicons.dev/icons?i=symfony)](https://skillicons.dev)
+[![FRAMEWORK](https://skillicons.dev/icons?i=symfony,docker)](https://skillicons.dev)
 
 ### Bases de données
 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
-**Oracle** *(icône non disponible sur skillicons.dev)*
 
 ### Environnements & outils
 
