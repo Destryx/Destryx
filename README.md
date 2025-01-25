@@ -32,8 +32,8 @@
 
 ## Contact
 
-[![CSS](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) # **[destryxxxx@gmail.com](destryxxxx@gmail.com)**
-[![CSS](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) # **destryx**
+# [![CSS](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) **[destryxxxx@gmail.com](destryxxxx@gmail.com)**
+# [![CSS](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) **destryx**
 
 N’hésitez pas à me contacter pour de futur collaboration ou opportunité !
 
