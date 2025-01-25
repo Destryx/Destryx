@@ -6,7 +6,6 @@
 
 [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) &nbsp;
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) &nbsp;
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) &nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) &nbsp;
 [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) &nbsp;
@@ -33,8 +32,8 @@
 
 ## Contact
 
-- **Email** : [destryxxxx@gmail.com](destryxxxx@gmail.com)
-- **Discord** : destryx
+- [![CSS](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) **[destryxxxx@gmail.com](destryxxxx@gmail.com)**
+- [![CSS](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) **destryx**
 
 N’hésitez pas à me contacter pour de futur collaboration ou opportunité !
 
