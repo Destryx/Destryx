@@ -14,7 +14,7 @@
 
 ### Frameworks & plateformes
 
-- **Symfony** *(icône non disponible sur skillicons.dev)*
+- [![CSS](https://skillicons.dev/icons?i=symfony)](https://skillicons.dev)
 
 ### Bases de données
 
@@ -23,10 +23,12 @@
 
 ### Environnements & outils
 
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) &nbsp;
+[![Linux](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev) &nbsp;
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) &nbsp;
 [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)  
 - **Shell**  
 - **PowerShell** *(icône non disponible sur skillicons.dev)*
+- [![QtCreator](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)  
 
 ---
 
