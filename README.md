@@ -1,16 +1,40 @@
-## Hi there 👋
+# Bienvenue
 
-<!--
-**Destryx/Destryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mes compétences
 
-Here are some ideas to get you started:
+### Langages de programmation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) &nbsp;
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) &nbsp;
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) &nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) &nbsp;
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) &nbsp;
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+### Frameworks & plateformes
+
+- **Symfony** *(icône non disponible sur skillicons.dev)*
+
+### Bases de données
+
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
+- **Oracle** *(icône non disponible sur skillicons.dev)*
+
+### Environnements & outils
+
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) &nbsp;
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)  
+- **Shell**  
+- **PowerShell** *(icône non disponible sur skillicons.dev)*
+
+---
+
+## Contact
+
+- **Email** : [destryxxxx@gmail.com](destryxxxx@gmail.com)
+- **Discord** : destryx
+
+N’hésitez pas à me contacter pour de futur collaboration ou opportunité !
+
