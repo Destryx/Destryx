@@ -4,6 +4,7 @@
 
 ### Langages de programmation
 
+[![LUA](https://skillicons.dev/icons?i=lua)](https://skillicons.dev) &nbsp;
 [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) &nbsp;
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) &nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;
@@ -14,7 +15,7 @@
 
 ### Frameworks & plateformes
 
-- [![CSS](https://skillicons.dev/icons?i=symfony)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=symfony)](https://skillicons.dev)
 
 ### Bases de données
 
@@ -26,9 +27,10 @@
 [![Linux](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev) &nbsp;
 [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) &nbsp;
 [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)  
+[![QtCreator](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)  
 - **Shell**  
 - **PowerShell** *(icône non disponible sur skillicons.dev)*
-- [![QtCreator](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)  
+[![QtCreator](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)  
 
 ---
 
