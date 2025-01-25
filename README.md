@@ -1,20 +1,20 @@
-# Bienvenue
+# :sparkles: Bienvenue :sparkles:
 
 ## Mes compétences
 
-### Langages de programmation
+### Langages de programmation :key:
 
 [![LANGAGE](https://skillicons.dev/icons?i=lua,c,cpp,md,html,css,php,js)](https://skillicons.dev) &nbsp;
 
-### Frameworks & plateformes
+### Frameworks & plateformes :minidisc:
 
 [![FRAMEWORK](https://skillicons.dev/icons?i=symfony,docker,nginx,apache)](https://skillicons.dev)
 
-### Bases de données
+### Bases de données :floppy_disk:
 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
 
-### Environnements & outils
+### Environnements & outils :computer:
 
 [![Linux](https://skillicons.dev/icons?i=ubuntu,windows,bash,powershell,nodejs,qt,github,gitlab)](https://skillicons.dev) &nbsp;
 
