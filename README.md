@@ -8,7 +8,7 @@
 
 ### Frameworks & plateformes
 
-[![FRAMEWORK](https://skillicons.dev/icons?i=symfony,docker)](https://skillicons.dev)
+[![FRAMEWORK](https://skillicons.dev/icons?i=symfony,docker,nginx,apache)](https://skillicons.dev)
 
 ### Bases de données
 
