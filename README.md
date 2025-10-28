@@ -4,19 +4,20 @@
 
 ### Langages de programmation :key:
 
-[![LANGAGE](https://skillicons.dev/icons?i=lua,c,cpp,md,html,css,php,js,swift)](https://skillicons.dev) &nbsp;
+[![LANGAGE](https://skillicons.dev/icons?i=lua,py,c,cpp,md,html,css,php,js,swift,dart,kotlin)](https://skillicons.dev) &nbsp;
 
 ### Frameworks & plateformes :minidisc:
 
-[![FRAMEWORK](https://skillicons.dev/icons?i=symfony,docker,nginx,apache)](https://skillicons.dev)
+[![FRAMEWORK](https://skillicons.dev/icons?i=symfony,docker,nginx,apache,react,flutter,nodejs,vue,vuetify)](https://skillicons.dev)
 
 ### Bases de données :floppy_disk:
 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
+[![MySQL](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,)](https://skillicons.dev)  
 
 ### Environnements & outils :computer:
 
-[![Linux](https://skillicons.dev/icons?i=ubuntu,windows,bash,powershell,nodejs,qt,github,gitlab)](https://skillicons.dev) &nbsp;
+[![Linux](https://skillicons.dev/icons?i=ubuntu,windows,bash,powershell,qt,vscode,phpstorm,androidstudio,github,gitlab)](https://skillicons.dev) &nbsp;
+
 
 ---
 
