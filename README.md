@@ -25,5 +25,10 @@
 ### [![CSS](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) **[destryxxxx@gmail.com](destryxxxx@gmail.com)**
 ### [![CSS](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) **destryx**
 
-N’hésitez pas à me contacter pour de futur collaboration ou opportunité !
+N’hésitez pas à me contacter !
 
+<hr/>
+<p align="center">
+    <img height=170rem src="https://github-readme-stats.vercel.app/api?username=Destryx&theme=react&show_icons=true&hide_border=true"/>
+    <img height=170rem src="https://github-readme-stats.vercel.app/api/top-langs?username=Destryx&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+</p>
