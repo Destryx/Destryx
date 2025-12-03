@@ -4,7 +4,7 @@
 
 ### Langages de programmation :key:
 
-[![LANGAGE](https://skillicons.dev/icons?i=lua,py,c,cpp,md,html,css,php,js,swift,dart,kotlin)](https://skillicons.dev) &nbsp;
+[![LANGAGE](https://skillicons.dev/icons?i=lua,py,c,cpp,md,html,css,php,js,swift,dart,kotlin,java)](https://skillicons.dev) &nbsp;
 
 ### Frameworks & plateformes :minidisc:
 
