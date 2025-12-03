@@ -16,7 +16,7 @@
 
 ### Environnements & outils :computer:
 
-[![Linux](https://skillicons.dev/icons?i=ubuntu,windows,bash,powershell,qt,vscode,phpstorm,androidstudio,github,gitlab)](https://skillicons.dev) &nbsp;
+[![Linux](https://skillicons.dev/icons?i=ubuntu,windows,bash,powershell,qt,vscode,phpstorm,androidstudio,github,gitlab,kubernetes)](https://skillicons.dev) &nbsp;
 
 
 ---
