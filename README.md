@@ -1,5 +1,7 @@
 # :sparkles: Bienvenue :sparkles:
 
+<h3 align="center">Full-Stack Developer</h3>
+
 ## Mes compétences
 
 ### Langages de programmation :key:
