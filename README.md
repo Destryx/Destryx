@@ -28,17 +28,13 @@
 <img src="https://skillicons.dev/icons?i=ubuntu,windows,bash,vim,powershell,qt,vscode,phpstorm,androidstudio,github,gitlab,kubernetes" alt="Environnements & outils"/>
 </p>
 
----
-
-## Contact
+---t
 
 ### [![CSS](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) **[destryxxxx@gmail.com](destryxxxx@gmail.com)**
 ### [![CSS](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) **destryx**
 
-N’hésitez pas à me contacter !
-
 <hr/>
-<p align="center">
-    <img height=170rem src="https://github-readme-stats.vercel.app/api?username=Destryx&theme=react&show_icons=true&hide_border=true"/>
-    <img height=170rem src="https://github-readme-stats.vercel.app/api/top-langs?username=Destryx&theme=react&show_icons=true&hide_border=true&layout=compact"/>
-</p>
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.deno.dev/destryx/count.svg" alt="Visitor's Count" />
+</div>
