@@ -1,28 +1,18 @@
 # :sparkles: Bienvenue :sparkles:
 
-<h3 align="center">Full-Stack Developer</h3>
-
-## Mes compétences
-
-### Langages de programmation :key:
+<h3 align="center">Full stack Developer</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=lua,py,c,cpp,md,html,css,php,js,swift,dart,kotlin,java" alt="Programming Language"/>
 </p>
 
-### Frameworks & plateformes :minidisc:
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=symfony,docker,nginx,react,flutter,nodejs,vue,vuetify" alt="Frameworks & plateformes"/>
 </p>
 
-### Bases de données :floppy_disk:
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="Bases de données"/>
 </p>
-
-### Environnements & outils :computer:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ubuntu,windows,bash,vim,powershell,qt,vscode,phpstorm,androidstudio,github,gitlab,kubernetes" alt="Environnements & outils"/>
@@ -32,7 +22,6 @@
 ### [![CSS](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) **destryx**
 
 <p align="center">
-  ### Contacts
   <a href="mailto:destryxxxx@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto%3Aethjuro%40destryxxx.com" alt="Gmail">
   </a>
