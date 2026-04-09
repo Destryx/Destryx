@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="495" height="137" alt="Destryx" src="https://github.com/user-attachments/assets/db4f0ca4-66d3-4cec-8867-a618174bb154" />
+  <img width="495" height="137" alt="Destryx" src="https://github.com/user-attachments/assets/b8e6e686-f4cd-406d-91ad-139f22278f1c" />
 </h1>
 <h3 align="center">Full stack Developer</h3>
 <br>
