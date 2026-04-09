@@ -19,7 +19,7 @@
 ### Bases de données :floppy_disk:
 
 <p align="center">
-[![MySQL](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,)](https://skillicons.dev)  
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="Bases de données"/>
 </p>
 
 ### Environnements & outils :computer:
