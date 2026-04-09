@@ -1,5 +1,6 @@
-# :sparkles: Bienvenue :sparkles:
-
+<h1 align="center">
+  <img width="495" height="137" alt="Capture d&#39;écran 2026-04-09 184214" src="https://github.com/user-attachments/assets/7a73a52c-5180-42da-9b3f-0039564a6c57" />
+</h1>
 <h3 align="center">Full stack Developer</h3>
 <br>
 
