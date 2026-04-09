@@ -13,7 +13,7 @@
 ### Frameworks & plateformes :minidisc:
 
 <p align="center">
-[![FRAMEWORK](https://skillicons.dev/icons?i=symfony,docker,nginx,apache,react,flutter,nodejs,vue,vuetify)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=symfony,docker,nginx,apache,react,flutter,nodejs,vue,vuetify" alt="Frameworks & plateformes"/>
 </p>
 
 ### Bases de données :floppy_disk:
