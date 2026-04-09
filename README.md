@@ -7,7 +7,7 @@
 ### Langages de programmation :key:
 
 <p align="center">
-[![LANGAGE](https://skillicons.dev/icons?i=lua,py,c,cpp,md,html,css,php,js,swift,dart,kotlin,java)](https://skillicons.dev) &nbsp;
+<img src="https://skillicons.dev/icons?i=lua,py,c,cpp,md,html,css,php,js,swift,dart,kotlin,java" alt="Programming Language"/>
 </p>
 
 ### Frameworks & plateformes :minidisc:
