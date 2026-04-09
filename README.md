@@ -25,7 +25,7 @@
 ### Environnements & outils :computer:
 
 <p align="center">
-[![Linux](https://skillicons.dev/icons?i=ubuntu,windows,bash,vim,powershell,qt,vscode,phpstorm,androidstudio,github,gitlab,kubernetes)](https://skillicons.dev) &nbsp;
+<img src="https://skillicons.dev/icons?i=ubuntu,windows,bash,vim,powershell,qt,vscode,phpstorm,androidstudio,github,gitlab,kubernetes" alt="Environnements & outils"/>
 </p>
 
 ---
