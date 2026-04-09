@@ -19,9 +19,6 @@
 <img src="https://skillicons.dev/icons?i=ubuntu,windows,bash,vim,powershell,qt,vscode,phpstorm,androidstudio,github,gitlab,kubernetes" alt="Environnements & outils"/>
 </p>
 
-### [![CSS](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) **[destryxxxx@gmail.com](destryxxxx@gmail.com)**
-### [![CSS](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) **destryx**
-
 <p align="center">
   <a href="mailto:destryxxxx@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto%3Aethjuro%40destryxxx.com" alt="Gmail">
