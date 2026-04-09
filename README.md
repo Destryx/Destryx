@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="495" height="137" alt="Capture d&#39;écran 2026-04-09 184214" src="https://github.com/user-attachments/assets/7a73a52c-5180-42da-9b3f-0039564a6c57" />
+  <img width="495" height="137" alt="Destryx" src="https://github.com/user-attachments/assets/db4f0ca4-66d3-4cec-8867-a618174bb154" />
 </h1>
 <h3 align="center">Full stack Developer</h3>
 <br>
