@@ -32,5 +32,5 @@
 <hr/>
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.deno.dev/destryx/count.svg" alt="Visitor's Count" />
+  <img src="https://anime-counter.lulushu.workers.dev/@destryx" alt="Visitor's Count" />
 </div>
